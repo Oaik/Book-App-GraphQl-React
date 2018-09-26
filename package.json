@@ -1,0 +1,26 @@
+{
+  "name": "book-app-with-graphql-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Oaik/Book-App-GraphQl-React.git"
+  },
+  "keywords": [
+    "react",
+    "graphql"
+  ],
+  "author": "Omar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oaik/Book-App-GraphQl-React/issues"
+  },
+  "homepage": "https://github.com/Oaik/Book-App-GraphQl-React#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
